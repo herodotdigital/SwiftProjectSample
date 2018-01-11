@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Antonio-Light.ttf">
+            <string>Antonio-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="StatementCell" rowHeight="638" id="31c-OB-C6l" customClass="StatementCell" customModule="SwiftProjectSample" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="360" height="437"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="31c-OB-C6l" id="FXs-5g-Avk">
+                <rect key="frame" x="0.0" y="0.0" width="360" height="436.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="d6P-i3-tB8" userLabel="container">
+                        <rect key="frame" x="16" y="8" width="328" height="420"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="500" verticalHuggingPriority="502" verticalCompressionResistancePriority="900" text="jfpickett" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RqT-C7-fS8">
+                                <rect key="frame" x="62" y="22" width="59" height="19.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="500" misplaced="YES" text="JUST NOW" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="44r-vr-mdO">
+                                <rect key="frame" x="277" y="24" width="39" height="17"/>
+                                <fontDescription key="fontDescription" name="Antonio-Light" family="Antonio" pointSize="12"/>
+                                <color key="textColor" red="0.72549019607843135" green="0.72549019607843135" blue="0.72549019607843135" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="defaultAvatar" translatesAutoresizingMaskIntoConstraints="NO" id="eBb-kQ-hzw">
+                                <rect key="frame" x="13" y="12" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="MHL-Q4-l8H"/>
+                                    <constraint firstAttribute="width" secondItem="eBb-kQ-hzw" secondAttribute="height" multiplier="1:1" id="TzR-s2-lZm"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="ibCircleShape" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem ipsum dolor sit amet, consetetur" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rff-7B-lY4">
+                                <rect key="frame" x="13" y="68.5" width="303" height="42.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="18"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="22" translatesAutoresizingMaskIntoConstraints="NO" id="Dbn-2B-vps" userLabel="bottom_icons">
+                                <rect key="frame" x="13" y="396" width="107" height="12"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="L0c-vH-HDs" userLabel="comments">
+                                        <rect key="frame" x="0.0" y="0.0" width="39.5" height="12"/>
+                                        <subviews>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="400" verticalHuggingPriority="251" image="icon_comments" translatesAutoresizingMaskIntoConstraints="NO" id="iOd-Bo-a2P">
+                                                <rect key="frame" x="0.0" y="0.0" width="16" height="12"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" secondItem="iOd-Bo-a2P" secondAttribute="height" multiplier="16:12" id="F2p-jg-9f2"/>
+                                                    <constraint firstAttribute="width" constant="16" id="oCb-Xl-S6t"/>
+                                                </constraints>
+                                            </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="700" text="2K" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6MT-Pr-nyb">
+                                                <rect key="frame" x="22" y="0.0" width="17.5" height="12"/>
+                                                <fontDescription key="fontDescription" name="Antonio-Light" family="Antonio" pointSize="14"/>
+                                                <color key="textColor" red="0.72941176470588232" green="0.72941176470588232" blue="0.72941176470588232" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="Qwt-4B-2EK" userLabel="friends">
+                                        <rect key="frame" x="61.5" y="0.0" width="45.5" height="12"/>
+                                        <subviews>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_user" translatesAutoresizingMaskIntoConstraints="NO" id="AcP-AP-aQw">
+                                                <rect key="frame" x="0.0" y="0.0" width="16" height="12"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="16" id="QKt-5f-qGv"/>
+                                                    <constraint firstAttribute="width" secondItem="AcP-AP-aQw" secondAttribute="height" multiplier="16:12" id="oq3-kY-uws"/>
+                                                </constraints>
+                                            </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="924" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IBI-fJ-mr3">
+                                                <rect key="frame" x="22" y="0.0" width="23.5" height="12"/>
+                                                <fontDescription key="fontDescription" name="Antonio-Light" family="Antonio" pointSize="14"/>
+                                                <color key="textColor" red="0.72941176470588232" green="0.72941176470588232" blue="0.72941176470588232" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vgO-4Q-jnz">
+                                <rect key="frame" x="270" y="381" width="46" height="42"/>
+                                <inset key="contentEdgeInsets" minX="44" minY="10" maxX="0.0" maxY="10"/>
+                                <state key="normal" image="icon_moreActive"/>
+                            </button>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="OM3-br-kCw">
+                                <rect key="frame" x="0.0" y="121" width="328" height="271"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="500" verticalCompressionResistancePriority="500" translatesAutoresizingMaskIntoConstraints="NO" id="JCN-sg-oVI">
+                                        <rect key="frame" x="0.0" y="0.0" width="328" height="165"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="JCN-sg-oVI" secondAttribute="height" multiplier="343:173" id="MV3-2K-6uP"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </imageView>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3RW-4K-mBh">
+                                        <rect key="frame" x="0.0" y="165" width="328" height="106"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kPd-tg-791" customClass="VotingView" customModule="SwiftProjectSample" customModuleProvider="target">
+                                                <rect key="frame" x="25" y="27" width="279" height="52"/>
+                                                <color key="backgroundColor" red="0.98039215686274506" green="0.98039215686274506" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="279" id="6Kq-K4-rYL"/>
+                                                    <constraint firstAttribute="height" constant="52" id="g9h-wa-olQ"/>
+                                                </constraints>
+                                            </view>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.98039215686274506" green="0.98039215686274506" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="106" id="20O-l0-1S8"/>
+                                            <constraint firstItem="kPd-tg-791" firstAttribute="centerX" secondItem="3RW-4K-mBh" secondAttribute="centerX" id="gcS-oi-Oig"/>
+                                            <constraint firstItem="kPd-tg-791" firstAttribute="centerY" secondItem="3RW-4K-mBh" secondAttribute="centerY" id="tMb-yo-aKH"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.98039215686274506" green="0.98039215686274506" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="eBb-kQ-hzw" firstAttribute="leading" secondItem="d6P-i3-tB8" secondAttribute="leading" constant="12.5" id="2LR-b0-avo"/>
+                            <constraint firstItem="RqT-C7-fS8" firstAttribute="leading" secondItem="eBb-kQ-hzw" secondAttribute="trailing" constant="9" id="7fc-Fn-2lR"/>
+                            <constraint firstAttribute="bottom" secondItem="Dbn-2B-vps" secondAttribute="bottom" constant="12" id="B5D-3g-QtW"/>
+                            <constraint firstItem="vgO-4Q-jnz" firstAttribute="centerY" secondItem="Dbn-2B-vps" secondAttribute="centerY" id="BOQ-Xg-veI"/>
+                            <constraint firstItem="eBb-kQ-hzw" firstAttribute="centerY" secondItem="RqT-C7-fS8" secondAttribute="centerY" id="Cl7-tT-Zcw"/>
+                            <constraint firstItem="rff-7B-lY4" firstAttribute="leading" secondItem="Dbn-2B-vps" secondAttribute="leading" id="IGK-OE-4o6"/>
+                            <constraint firstAttribute="trailing" secondItem="OM3-br-kCw" secondAttribute="trailing" id="KDO-uM-VZV"/>
+                            <constraint firstItem="OM3-br-kCw" firstAttribute="leading" secondItem="d6P-i3-tB8" secondAttribute="leading" id="MJW-T8-m6R"/>
+                            <constraint firstItem="Dbn-2B-vps" firstAttribute="top" secondItem="OM3-br-kCw" secondAttribute="bottom" constant="4" id="RHv-z3-lLe"/>
+                            <constraint firstItem="OM3-br-kCw" firstAttribute="top" secondItem="rff-7B-lY4" secondAttribute="bottom" constant="10" id="ZbM-qU-G0P"/>
+                            <constraint firstItem="rff-7B-lY4" firstAttribute="top" secondItem="RqT-C7-fS8" secondAttribute="bottom" constant="27" id="aWG-bv-04d"/>
+                            <constraint firstItem="RqT-C7-fS8" firstAttribute="top" secondItem="d6P-i3-tB8" secondAttribute="top" constant="22" id="cfw-bG-Hla"/>
+                            <constraint firstItem="rff-7B-lY4" firstAttribute="leading" secondItem="d6P-i3-tB8" secondAttribute="leading" constant="12.5" id="ctk-mE-S73"/>
+                            <constraint firstAttribute="trailing" secondItem="rff-7B-lY4" secondAttribute="trailing" constant="12.5" id="ikp-wR-aF2"/>
+                            <constraint firstItem="44r-vr-mdO" firstAttribute="centerY" secondItem="RqT-C7-fS8" secondAttribute="centerY" id="jIB-dg-9g0"/>
+                            <constraint firstAttribute="trailing" secondItem="vgO-4Q-jnz" secondAttribute="trailing" constant="12" id="qc2-2G-QD6"/>
+                            <constraint firstAttribute="trailing" secondItem="44r-vr-mdO" secondAttribute="trailing" constant="12.5" id="vgz-sP-GtU"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibCornerRadiusOfRoundedRect">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibBorderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="ibBorderColor">
+                                <color key="value" red="0.84705882352941175" green="0.84705882352941175" blue="0.84705882352941175" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.94509803921568625" green="0.94509803921568625" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="d6P-i3-tB8" secondAttribute="bottom" constant="8" id="Rm4-ds-eqn"/>
+                    <constraint firstItem="d6P-i3-tB8" firstAttribute="leading" secondItem="FXs-5g-Avk" secondAttribute="leading" constant="16" id="UeY-h8-zaO"/>
+                    <constraint firstAttribute="trailing" secondItem="d6P-i3-tB8" secondAttribute="trailing" constant="16" id="oJP-LX-eu8"/>
+                    <constraint firstItem="d6P-i3-tB8" firstAttribute="top" secondItem="FXs-5g-Avk" secondAttribute="top" constant="8" id="zwL-fQ-ost"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="avatarImageView" destination="eBb-kQ-hzw" id="KET-0g-9oN"/>
+                <outlet property="ownernameLabel" destination="RqT-C7-fS8" id="MqM-vG-yw7"/>
+                <outlet property="postImageView" destination="JCN-sg-oVI" id="b5C-2A-c2E"/>
+                <outlet property="postTimeLabel" destination="44r-vr-mdO" id="moJ-eT-Lv8"/>
+                <outlet property="titleLabel" destination="rff-7B-lY4" id="CnF-yC-8Iu"/>
+                <outlet property="voteView" destination="kPd-tg-791" id="Kr5-Zp-Tgr"/>
+            </connections>
+            <point key="canvasLocation" x="-226" y="246.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="defaultAvatar" width="90" height="90"/>
+        <image name="icon_comments" width="16" height="12"/>
+        <image name="icon_moreActive" width="2" height="12"/>
+        <image name="icon_user" width="13" height="15"/>
+    </resources>
+</document>

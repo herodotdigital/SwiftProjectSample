@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Antonio-Light.ttf">
+            <string>Antonio-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CommentCell" rowHeight="180" id="tsQ-j5-CJD" customClass="CommentCell" customModule="SwiftProjectSample" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="180"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="tsQ-j5-CJD" id="1JW-kt-zrp">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="179.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5u0-kI-T73">
+                        <rect key="frame" x="15" y="23" width="32" height="32"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="32" id="PNu-X3-hHK"/>
+                            <constraint firstAttribute="width" secondItem="5u0-kI-T73" secondAttribute="height" multiplier="1:1" id="mCB-3a-hM4"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="ibCircleShape" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jane_B" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Y9X-Ga-AM2">
+                        <rect key="frame" x="55" y="23" width="52" height="14"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="JUST NOW" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wCi-Ht-akO">
+                        <rect key="frame" x="256" y="20" width="39" height="18"/>
+                        <fontDescription key="fontDescription" name="Antonio-Light" family="Antonio" pointSize="12"/>
+                        <color key="textColor" red="0.50588235294117645" green="0.50588235294117645" blue="0.50588235294117645" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="100" verticalCompressionResistancePriority="800" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qzH-9g-QRE">
+                        <rect key="frame" x="55" y="37" width="232" height="134"/>
+                        <string key="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea taki</string>
+                        <fontDescription key="fontDescription" type="system" weight="light" pointSize="14"/>
+                        <color key="textColor" red="0.50588235294117645" green="0.50588235294117645" blue="0.50588235294117645" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="0.94509803921568625" green="0.94509803921568625" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="wCi-Ht-akO" firstAttribute="trailing" secondItem="qzH-9g-QRE" secondAttribute="trailing" id="5Q8-az-H08"/>
+                    <constraint firstItem="Y9X-Ga-AM2" firstAttribute="top" secondItem="1JW-kt-zrp" secondAttribute="topMargin" constant="12" id="7JD-yh-iZ9"/>
+                    <constraint firstItem="Y9X-Ga-AM2" firstAttribute="leading" secondItem="5u0-kI-T73" secondAttribute="trailing" constant="8" id="D8D-9d-5wZ"/>
+                    <constraint firstItem="Y9X-Ga-AM2" firstAttribute="top" secondItem="5u0-kI-T73" secondAttribute="top" id="HJQ-qG-6AC"/>
+                    <constraint firstAttribute="bottom" secondItem="qzH-9g-QRE" secondAttribute="bottom" constant="8" id="J2d-Sg-sFX"/>
+                    <constraint firstItem="5u0-kI-T73" firstAttribute="leading" secondItem="1JW-kt-zrp" secondAttribute="leading" constant="15" id="Wfe-kx-g4n"/>
+                    <constraint firstItem="qzH-9g-QRE" firstAttribute="leading" secondItem="Y9X-Ga-AM2" secondAttribute="leading" id="Z9g-az-9GA"/>
+                    <constraint firstItem="qzH-9g-QRE" firstAttribute="top" secondItem="Y9X-Ga-AM2" secondAttribute="bottom" id="jRO-2e-EiC"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="qzH-9g-QRE" secondAttribute="trailing" constant="17" id="wNM-mR-Q0T"/>
+                    <constraint firstItem="wCi-Ht-akO" firstAttribute="centerY" secondItem="Y9X-Ga-AM2" secondAttribute="centerY" id="y1b-He-oWk"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.94509803921568625" green="0.94509803921568625" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="avatarImageView" destination="5u0-kI-T73" id="98l-lC-dGZ"/>
+                <outlet property="commentLabel" destination="qzH-9g-QRE" id="slu-Dz-KyV"/>
+                <outlet property="postTimeLabel" destination="wCi-Ht-akO" id="e9J-fS-NwI"/>
+                <outlet property="usernameLabel" destination="Y9X-Ga-AM2" id="YTH-rS-vT6"/>
+            </connections>
+            <point key="canvasLocation" x="772" y="675"/>
+        </tableViewCell>
+    </objects>
+</document>

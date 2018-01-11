@@ -1,0 +1,4775 @@
+[
+  {
+    "image_path": "uploads/post/images",
+    "id": 370,
+    "type": "poll",
+    "title": "Elo elo",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "image": "9c59f93119f79f765f2986d906c3b26929b1b8e3.png",
+    "questions": [
+      {
+        "id": 732,
+        "value": "Po",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 733,
+        "value": "Ok",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11153691",
+    "lng": "17.02578899",
+    "created_at": "2016-07-27T11:54:59+0200",
+    "updated_at": "2016-07-27T11:54:59+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 369,
+    "type": "statement",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "fb19dc8292a5ad2a5c6d0a581d20750135d4dd4c.png",
+    "questions": [
+      {
+        "id": 730,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 731,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11147381",
+    "lng": "17.02594566",
+    "created_at": "2016-07-27T10:19:24+0200",
+    "updated_at": "2016-07-27T10:19:24+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 368,
+    "type": "statement",
+    "title": "Trololo",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "image": "cebfd7ed79c4e103417f674c806bc343b475e8c5.png",
+    "questions": [
+      {
+        "id": 728,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 729,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152874",
+    "lng": "17.02557674",
+    "created_at": "2016-07-27T09:42:10+0200",
+    "updated_at": "2016-07-27T09:42:10+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 367,
+    "type": "poll",
+    "title": "W\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "image": "dedfb2793bf36f3521d10ddffe8b8ea397c840f5.png",
+    "questions": [
+      {
+        "id": 724,
+        "value": "W\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 725,
+        "value": "W\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 726,
+        "value": "W\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 727,
+        "value": "W\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152874",
+    "lng": "17.02557674",
+    "created_at": "2016-07-27T09:41:41+0200",
+    "updated_at": "2016-07-27T09:41:41+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 366,
+    "type": "poll",
+    "title": "Question at the top",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "questions": [
+      {
+        "id": 722,
+        "value": "This is first answer",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 723,
+        "value": "This is second answer",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166000",
+    "lng": "16.98411000",
+    "created_at": "2016-07-26T12:25:16+0200",
+    "updated_at": "2016-07-26T12:25:16+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 364,
+    "type": "statement",
+    "title": "Qwerty",
+    "urls": [],
+    "autor": {
+      "id": 25,
+      "username": "ada_chmielewska",
+      "username_canonical": "ada_chmielewska",
+      "email": "ada-chmielewska@wp.pl",
+      "email_canonical": "ada-chmielewska@wp.pl",
+      "enabled": true,
+      "salt": "nl699ey0deok8k880coko00ws8g8go4",
+      "password": "cfNGWxnImJ5Zirv/4ssTVir+zTfzT7l/RzPDrgWYKvtTudnXuoqaV6MrN3mX0yYX49O8+E9oOJBqS2UKBz09eg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 6,
+      "friends_count": 1,
+      "posts_count": 6,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "d55088270c86d7436880233d35c6cb974089e4fa.png",
+      "facebook_id": "1173830772667366",
+      "created_at": "2016-07-04T10:26:48+0200",
+      "updated_at": "2016-07-26T18:28:32+0200"
+    },
+    "image": "5c65ff8e53aa2efc8e1afddf8a56ddb8d98962d9.png",
+    "questions": [
+      {
+        "id": 718,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 719,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11159118",
+    "lng": "17.02569593",
+    "created_at": "2016-07-26T09:52:49+0200",
+    "updated_at": "2016-07-26T09:52:49+0200",
+    "comments_count": 2
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 361,
+    "type": "poll",
+    "title": "W\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 712,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 713,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-25T14:35:56+0200",
+    "updated_at": "2016-07-25T14:35:56+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 360,
+    "type": "poll",
+    "title": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 710,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 711,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-25T14:33:08+0200",
+    "updated_at": "2016-07-25T14:33:08+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 359,
+    "type": "poll",
+    "title": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 707,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 708,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 709,
+        "value": "third",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-25T14:32:00+0200",
+    "updated_at": "2016-07-25T14:32:00+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 348,
+    "type": "poll",
+    "title": "Max or Kolonko?",
+    "description": "Ktory lepszy",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "image": "cf9641b04caed3fd768aea79c267dcb153405c32.png",
+    "questions": [
+      {
+        "id": 685,
+        "value": "Max",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 686,
+        "value": "Kolonko",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11150303",
+    "lng": "17.02580115",
+    "created_at": "2016-07-22T13:32:58+0200",
+    "updated_at": "2016-07-22T13:32:58+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 346,
+    "type": "poll",
+    "title": "Rywu",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "questions": [
+      {
+        "id": 681,
+        "value": "Ffcc",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 682,
+        "value": "Cvgh",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11150017",
+    "lng": "17.02573885",
+    "created_at": "2016-07-22T12:13:26+0200",
+    "updated_at": "2016-07-22T12:13:26+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 343,
+    "type": "poll",
+    "title": "First test statement with author image",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 674,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 675,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 676,
+        "value": "third",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-22T09:19:17+0200",
+    "updated_at": "2016-07-22T09:19:17+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 342,
+    "type": "poll",
+    "title": "Edd",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 672,
+        "value": "Ddd",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 673,
+        "value": "Ddd",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11351371",
+    "lng": "16.99668785",
+    "created_at": "2016-07-21T18:35:45+0200",
+    "updated_at": "2016-07-21T18:35:45+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 341,
+    "type": "poll",
+    "title": "Uffff",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 670,
+        "value": "Hdyhd",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 671,
+        "value": "Gxgxx",
+        "votes_count": 1,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11172932",
+    "lng": "17.02558282",
+    "created_at": "2016-07-21T16:02:27+0200",
+    "updated_at": "2016-07-21T16:02:27+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 339,
+    "type": "statement",
+    "title": "Blablabla",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 666,
+        "value": "disagree",
+        "votes_count": 9,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 667,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-21T12:27:53+0200",
+    "updated_at": "2016-07-21T12:27:53+0200",
+    "comments_count": 3
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 334,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 656,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 657,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.09326953",
+    "lng": "17.00632610",
+    "created_at": "2016-07-20T18:37:42+0200",
+    "updated_at": "2016-07-20T18:37:42+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 333,
+    "type": "poll",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 654,
+        "value": "Test",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 655,
+        "value": "Test",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.09326953",
+    "lng": "17.00632610",
+    "created_at": "2016-07-20T18:37:32+0200",
+    "updated_at": "2016-07-20T18:37:32+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 332,
+    "type": "poll",
+    "title": "Jdjdjdjdjdjhe",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 652,
+        "value": "Vhhb",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 653,
+        "value": "Ndjdjd",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11153397",
+    "lng": "17.02590233",
+    "created_at": "2016-07-20T14:05:20+0200",
+    "updated_at": "2016-07-20T14:05:20+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 331,
+    "type": "poll",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 650,
+        "value": "Test",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 651,
+        "value": "Test",
+        "votes_count": 1,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156840",
+    "lng": "17.02588813",
+    "created_at": "2016-07-20T13:44:58+0200",
+    "updated_at": "2016-07-20T13:44:58+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 330,
+    "type": "poll",
+    "title": "Test question",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 647,
+        "value": "First",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 648,
+        "value": "Sec",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 649,
+        "value": "Third",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156840",
+    "lng": "17.02588813",
+    "created_at": "2016-07-20T13:41:34+0200",
+    "updated_at": "2016-07-20T13:41:34+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 329,
+    "type": "poll",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 644,
+        "value": "First",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 645,
+        "value": "Sec",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 646,
+        "value": "Thirs",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156840",
+    "lng": "17.02588813",
+    "created_at": "2016-07-20T13:40:01+0200",
+    "updated_at": "2016-07-20T13:40:01+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 328,
+    "type": "poll",
+    "title": "First test statement with author image",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "698b19d3e22734263b292519996b4ac59efff59a.png",
+    "questions": [
+      {
+        "id": 641,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 642,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 643,
+        "value": "third",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-20T13:28:51+0200",
+    "updated_at": "2016-07-20T13:28:51+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 325,
+    "type": "poll",
+    "title": "First test statement with author image",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "43f31fae4056649e7f7df378b68b4c47d7717c21.png",
+    "questions": [
+      {
+        "id": 634,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 635,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-20T12:27:31+0200",
+    "updated_at": "2016-07-20T12:27:31+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 313,
+    "type": "statement",
+    "title": "Explanation test Paw 9",
+    "description": "Explanation test Paw 9",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 610,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 611,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:57:13+0200",
+    "updated_at": "2016-07-19T09:57:13+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 312,
+    "type": "statement",
+    "title": "Explanation test Paw 8",
+    "description": "Explanation test Paw 8",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 608,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 609,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:57:08+0200",
+    "updated_at": "2016-07-19T09:57:08+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 311,
+    "type": "statement",
+    "title": "Explanation test Paw 7",
+    "description": "Explanation test Paw 7",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 606,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 607,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:57:02+0200",
+    "updated_at": "2016-07-19T09:57:02+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 310,
+    "type": "statement",
+    "title": "Explanation test Paw 6",
+    "description": "Explanation test Paw 6",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 604,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 605,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:56+0200",
+    "updated_at": "2016-07-19T09:56:56+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 309,
+    "type": "statement",
+    "title": "Explanation test Paw 5",
+    "description": "Explanation test Paw 5",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 602,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 603,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:51+0200",
+    "updated_at": "2016-07-19T09:56:51+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 308,
+    "type": "statement",
+    "title": "Explanation test Paw 4",
+    "description": "Explanation test Paw 4",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 600,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 601,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:45+0200",
+    "updated_at": "2016-07-19T09:56:45+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 307,
+    "type": "statement",
+    "title": "Explanation test Paw 3",
+    "description": "Explanation test Paw 3",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 598,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 599,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:39+0200",
+    "updated_at": "2016-07-19T09:56:39+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 306,
+    "type": "statement",
+    "title": "Explanation test Paw 2",
+    "description": "Explanation test Paw 2",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 596,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 597,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:32+0200",
+    "updated_at": "2016-07-19T09:56:32+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 305,
+    "type": "statement",
+    "title": "Explanation test Paw 1",
+    "description": "Explanation test Paw 1",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 594,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 595,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T09:56:19+0200",
+    "updated_at": "2016-07-19T09:56:19+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 304,
+    "type": "statement",
+    "title": "Explanation test 5",
+    "description": "Explanation test 5",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 592,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 593,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11145442",
+    "lng": "17.02563631",
+    "created_at": "2016-07-19T09:52:19+0200",
+    "updated_at": "2016-07-19T09:52:19+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 303,
+    "type": "statement",
+    "title": "Explanation test 4",
+    "description": "Explanation test 4",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 590,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 591,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11145442",
+    "lng": "17.02563631",
+    "created_at": "2016-07-19T09:52:09+0200",
+    "updated_at": "2016-07-19T09:52:09+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 302,
+    "type": "statement",
+    "title": "Explanation test 3",
+    "description": "Explanation test 4",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 588,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 589,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11145442",
+    "lng": "17.02563631",
+    "created_at": "2016-07-19T09:51:45+0200",
+    "updated_at": "2016-07-19T09:51:45+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 301,
+    "type": "statement",
+    "title": "Explanation test 2",
+    "description": "Explanation test 2",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 586,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 587,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11145442",
+    "lng": "17.02563631",
+    "created_at": "2016-07-19T09:51:35+0200",
+    "updated_at": "2016-07-19T09:51:35+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 300,
+    "type": "statement",
+    "title": "Explanation test 1",
+    "description": "Explanation test 1",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 584,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 585,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11145442",
+    "lng": "17.02563631",
+    "created_at": "2016-07-19T09:51:23+0200",
+    "updated_at": "2016-07-19T09:51:23+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 299,
+    "type": "statement",
+    "title": "First test statement with author image",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "dfb8500b1f0c6dacf24fffc2c84c300391ec80f7.png",
+    "questions": [
+      {
+        "id": 582,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 583,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-19T08:22:12+0200",
+    "updated_at": "2016-07-19T08:22:12+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 297,
+    "type": "statement",
+    "title": "Test",
+    "description": "OhktstkdylldldgksktakrslddgkdtkdtlrlyektsktskyxxgmxdylddkydkyddyldgjftksnfMgxktsykftkxmhhhxxhfjfjjgjfjfjfhdhxfhlhlhkhjfhdtwfjgjxgjdigjxkgjdkfhcjfjchcjchdhdjfjdhchchfhfjxhxhfjfhdhxhdjcjcjcjcjfjffjfjcufudhxhcjcjcjfjcjcjcjcjfjfjfjfjfhdhdhdhdudufufufufufufufj",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 578,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 579,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11107874",
+    "lng": "17.02320534",
+    "created_at": "2016-07-19T08:20:31+0200",
+    "updated_at": "2016-07-19T08:20:31+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 296,
+    "type": "statement",
+    "title": "Yeeudnfhfxh. Hdudfjffjjfcj jgiggkfk bjfififufififfbbufifghfufif",
+    "description": "Jdjxjsxjjzjzjzjzkzkzksjskkskskdkxkkdkdkdnndndndndmndndndndmmdnfjdjdjfnndjdjdndndnmdndjdjdjdjjdjdjdjdjjdjdjdjdjdjdjdjjdjdjdjdjdjdjxnxjjxjcjcjfjcjjcjcjcjfjkcjcjcjcjcygg ggguhhhhhh hyyyhh bbgt hyhyhhh hhhhhhhhfhbhh.  Bhgyhthhht vbgjb bhhhhhhb bhjnbbghhjbvb. ",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 576,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 577,
+        "value": "agree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11107874",
+    "lng": "17.02320534",
+    "created_at": "2016-07-19T08:19:23+0200",
+    "updated_at": "2016-07-19T08:19:23+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 290,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "bc1022fefe660ec27fb664d45443d41229e119db.png",
+    "questions": [
+      {
+        "id": 564,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 565,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11147978",
+    "lng": "17.02294408",
+    "created_at": "2016-07-18T14:31:13+0200",
+    "updated_at": "2016-07-18T14:31:13+0200",
+    "comments_count": 2
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 246,
+    "type": "statement",
+    "title": "Tescik",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 476,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 477,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.07307127",
+    "lng": "17.04664201",
+    "created_at": "2016-07-17T11:52:26+0200",
+    "updated_at": "2016-07-17T11:52:26+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 217,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 418,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 419,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11151015",
+    "lng": "17.02575994",
+    "created_at": "2016-07-15T19:44:53+0200",
+    "updated_at": "2016-07-15T19:44:53+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 216,
+    "type": "statement",
+    "title": "Test if work after fix",
+    "description": "Explained",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "29d4ca242da2490b3546ad5ff2e5b548702591eb.png",
+    "questions": [
+      {
+        "id": 416,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 417,
+        "value": "agree",
+        "votes_count": 6,
+        "user_vote": true,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11333709",
+    "lng": "16.99666234",
+    "created_at": "2016-07-15T19:44:17+0200",
+    "updated_at": "2016-07-15T19:44:17+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 215,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "75d46cfde0088addb3263039f088a29640e2e311.png",
+    "questions": [
+      {
+        "id": 414,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 415,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11157281",
+    "lng": "17.02568467",
+    "created_at": "2016-07-15T19:43:39+0200",
+    "updated_at": "2016-07-15T19:43:39+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 212,
+    "type": "statement",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "8c55c7317c43e7ebb957e6f6b0092489474db3e1.png",
+    "questions": [
+      {
+        "id": 408,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 409,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11157226",
+    "lng": "17.02567944",
+    "created_at": "2016-07-15T19:06:10+0200",
+    "updated_at": "2016-07-15T19:06:10+0200",
+    "comments_count": 3
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 211,
+    "type": "statement",
+    "title": "Statement from paw 2016-07-15T16:37:08+00:00",
+    "urls": [],
+    "autor": {
+      "id": 30,
+      "username": "john_row",
+      "username_canonical": "john_row",
+      "email": "qqqqqaim@gmail.com",
+      "email_canonical": "qqqqqaim@gmail.com",
+      "enabled": true,
+      "salt": "plmiapaaki8cs8g4ksc80gw040csgsw",
+      "password": "PNsKMRwKcanLX5hTZHjQG8QXtgB3rMqceAhzfrOJnI5hZXa/FRDf+oBhhAC0aajuEpfH4c80PZT+gRi8KogPdw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 4,
+      "posts_count": 2,
+      "activity_count": 11,
+      "picture_path": "uploads/user/pictures",
+      "picture": "3e936ea0014cf33c487a99663336e71532eaaf17.png",
+      "real_name": "John Row",
+      "facebook_id": "122297028205031",
+      "created_at": "2016-07-14T11:45:47+0200",
+      "updated_at": "2016-07-19T15:44:31+0200"
+    },
+    "image": "5291a8de837bdb52990f46e8a40d109ceb6e23db.png",
+    "questions": [
+      {
+        "id": 406,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 407,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-15T18:37:09+0200",
+    "updated_at": "2016-07-15T18:37:09+0200",
+    "comments_count": 4
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 210,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 404,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 405,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156249",
+    "lng": "17.02578688",
+    "created_at": "2016-07-15T18:33:05+0200",
+    "updated_at": "2016-07-15T18:33:05+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 209,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 402,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 403,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156249",
+    "lng": "17.02578688",
+    "created_at": "2016-07-15T18:32:19+0200",
+    "updated_at": "2016-07-15T18:32:19+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 208,
+    "type": "statement",
+    "title": "Statement from paw 2016-07-15T16:31:28+00:00",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "0d7c2202832a0d818499eee3bd9afea03d4614a6.png",
+    "questions": [
+      {
+        "id": 400,
+        "value": "agree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 401,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-15T18:31:29+0200",
+    "updated_at": "2016-07-15T18:31:29+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 207,
+    "type": "statement",
+    "title": "Test in home",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 398,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 399,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11357636",
+    "lng": "16.99670621",
+    "created_at": "2016-07-15T18:30:50+0200",
+    "updated_at": "2016-07-15T18:30:50+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 206,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "9e4df5602e70aaa4eb050b44a5e8a69383ff0688.png",
+    "questions": [
+      {
+        "id": 396,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 397,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156914",
+    "lng": "17.02582031",
+    "created_at": "2016-07-15T18:28:59+0200",
+    "updated_at": "2016-07-15T18:28:59+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 205,
+    "type": "statement",
+    "title": "Statement from paw 2016-07-15T16:23:04+00:00",
+    "urls": [],
+    "image": "3190c3ae0d7c257197b568341a7b5fc14635d20d.png",
+    "questions": [
+      {
+        "id": 394,
+        "value": "agree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 395,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11166098",
+    "lng": "16.98411781",
+    "created_at": "2016-07-15T18:23:05+0200",
+    "updated_at": "2016-07-15T18:23:05+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 204,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "ea8b04b78b781a68c41004af15111d4e247b6f1a.png",
+    "questions": [
+      {
+        "id": 392,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 393,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11118163",
+    "lng": "17.02352718",
+    "created_at": "2016-07-15T18:20:32+0200",
+    "updated_at": "2016-07-15T18:20:32+0200",
+    "comments_count": 4
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 203,
+    "type": "statement",
+    "title": "Tytul na zadanie",
+    "description": "Pk",
+    "urls": [],
+    "autor": {
+      "id": 30,
+      "username": "john_row",
+      "username_canonical": "john_row",
+      "email": "qqqqqaim@gmail.com",
+      "email_canonical": "qqqqqaim@gmail.com",
+      "enabled": true,
+      "salt": "plmiapaaki8cs8g4ksc80gw040csgsw",
+      "password": "PNsKMRwKcanLX5hTZHjQG8QXtgB3rMqceAhzfrOJnI5hZXa/FRDf+oBhhAC0aajuEpfH4c80PZT+gRi8KogPdw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 4,
+      "posts_count": 2,
+      "activity_count": 11,
+      "picture_path": "uploads/user/pictures",
+      "picture": "3e936ea0014cf33c487a99663336e71532eaaf17.png",
+      "real_name": "John Row",
+      "facebook_id": "122297028205031",
+      "created_at": "2016-07-14T11:45:47+0200",
+      "updated_at": "2016-07-19T15:44:31+0200"
+    },
+    "image": "aea57d7b0d8f524b707e60ddd7a47bf966ad937d.png",
+    "questions": [
+      {
+        "id": 390,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 391,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.08807139",
+    "lng": "17.04026014",
+    "created_at": "2016-07-15T17:23:32+0200",
+    "updated_at": "2016-07-15T17:23:32+0200",
+    "comments_count": 5
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 171,
+    "type": "statement",
+    "title": "Statement test",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "questions": [
+      {
+        "id": 326,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 327,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11150292",
+    "lng": "17.02578325",
+    "created_at": "2016-07-13T14:08:39+0200",
+    "updated_at": "2016-07-13T14:08:39+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 170,
+    "type": "statement",
+    "title": "Testerrro",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 324,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 325,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11155058",
+    "lng": "17.02583935",
+    "created_at": "2016-07-13T11:53:21+0200",
+    "updated_at": "2016-07-13T11:53:21+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 169,
+    "type": "statement",
+    "title": "Tescik",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 322,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 323,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-12T22:01:13+0200",
+    "updated_at": "2016-07-12T22:01:13+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 168,
+    "type": "statement",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 320,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 321,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-12T21:28:25+0200",
+    "updated_at": "2016-07-12T21:28:25+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 164,
+    "type": "statement",
+    "title": "El test",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 312,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 313,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-11T18:06:56+0200",
+    "updated_at": "2016-07-11T18:06:56+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 163,
+    "type": "statement",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 310,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 311,
+        "value": "agree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-11T18:01:00+0200",
+    "updated_at": "2016-07-11T18:01:00+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 162,
+    "type": "statement",
+    "title": "Red or blue",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 308,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 309,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-11T17:55:35+0200",
+    "updated_at": "2016-07-11T17:55:35+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 161,
+    "type": "statement",
+    "title": "Ios vs android",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 306,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 307,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-11T17:49:11+0200",
+    "updated_at": "2016-07-11T17:49:11+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 160,
+    "type": "statement",
+    "title": "Test",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 304,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 305,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-11T17:46:51+0200",
+    "updated_at": "2016-07-11T17:46:51+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 158,
+    "type": "statement",
+    "title": "My first post",
+    "urls": [],
+    "autor": {
+      "id": 27,
+      "username": "adam_borek",
+      "username_canonical": "adam_borek",
+      "email": "adam_borek@yahoo.com",
+      "email_canonical": "adam_borek@yahoo.com",
+      "enabled": true,
+      "salt": "gwswzvp5k9448w8gkgo40k4kgg0w8co",
+      "password": "ko1tJGqifrwi0LTsGkoFw87FsKb6SlMLG9ZdJpwTHcRu3qbQPcE2eune82oTDWxUxrE652H/KMfqNCwjPkmiZQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 1,
+      "posts_count": 34,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "af4b25b0fede5aff004e3a55e5bf2e5f8aab217c.png",
+      "real_name": "Adam Borek",
+      "facebook_id": "1018060558272352",
+      "created_at": "2016-07-11T15:45:36+0200",
+      "updated_at": "2016-07-27T14:11:28+0200"
+    },
+    "image": "e9f4d8fd9b06b77a45035b95c0c0cfb1e7448310.png",
+    "questions": [
+      {
+        "id": 300,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 301,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11141878",
+    "lng": "17.02582361",
+    "created_at": "2016-07-11T15:54:20+0200",
+    "updated_at": "2016-07-11T15:54:20+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 156,
+    "type": "statement",
+    "title": "Mac or Windows?",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 296,
+        "value": "disagree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 297,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-10T18:23:09+0200",
+    "updated_at": "2016-07-10T18:23:09+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 155,
+    "type": "statement",
+    "title": "Trolololo",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 294,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 295,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-10T18:03:42+0200",
+    "updated_at": "2016-07-10T18:03:42+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 154,
+    "type": "statement",
+    "title": "Test animacji",
+    "description": "Bla bla",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 292,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": true,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 293,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-10T18:02:41+0200",
+    "updated_at": "2016-07-10T18:02:41+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 153,
+    "type": "statement",
+    "title": "No elo",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "image": "c085c8d9dba238b0f046f9c1129091bdd2053a8d.png",
+    "questions": [
+      {
+        "id": 290,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 291,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-10T17:26:58+0200",
+    "updated_at": "2016-07-10T17:26:58+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 146,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "image": "3ad794f6e9453d59f11d457d544064273f6ef2df.png",
+    "questions": [
+      {
+        "id": 276,
+        "value": "disagree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 277,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.09296279",
+    "lng": "17.00525804",
+    "created_at": "2016-07-06T19:33:28+0200",
+    "updated_at": "2016-07-06T19:33:28+0200",
+    "comments_count": 39
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 144,
+    "type": "statement",
+    "title": "Statement on demo",
+    "urls": [],
+    "autor": {
+      "id": 18,
+      "username": "test",
+      "username_canonical": "test",
+      "email": "test@yahoo.com",
+      "email_canonical": "test@yahoo.com",
+      "enabled": true,
+      "salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+      "password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 2,
+      "posts_count": 5,
+      "activity_count": 6,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+      "facebook_id": "1018060558272351",
+      "created_at": "2016-07-01T14:07:17+0200",
+      "updated_at": "2016-07-08T17:54:29+0200"
+    },
+    "image": "432a76787247f69dcb6251de5436267a8e066ad6.png",
+    "questions": [
+      {
+        "id": 272,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 273,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11146897",
+    "lng": "17.02574357",
+    "created_at": "2016-07-06T13:58:16+0200",
+    "updated_at": "2016-07-06T13:58:16+0200",
+    "comments_count": 4
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 143,
+    "type": "statement",
+    "title": "Okkk",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "questions": [
+      {
+        "id": 270,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 271,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152550",
+    "lng": "17.02573117",
+    "created_at": "2016-07-06T13:27:02+0200",
+    "updated_at": "2016-07-06T13:27:02+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 142,
+    "type": "statement",
+    "title": "Gre",
+    "description": "V cv",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "image": "843d318bbe0589150d866bc7ae68dce58ae01493.png",
+    "questions": [
+      {
+        "id": 268,
+        "value": "disagree",
+        "votes_count": 0,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 269,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11146136",
+    "lng": "17.02568114",
+    "created_at": "2016-07-06T13:22:44+0200",
+    "updated_at": "2016-07-06T13:22:44+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 141,
+    "type": "statement",
+    "title": "Tescik",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 24,
+      "username": "maciej_jasica",
+      "username_canonical": "maciej_jasica",
+      "email": "maciej.jasica@gmail.com",
+      "email_canonical": "maciej.jasica@gmail.com",
+      "enabled": true,
+      "salt": "cmjo9hfaa28s04ccw00cos4404o0ogc",
+      "password": "1KS7wyHNnlLfR0VbdCGdwwL+v4NsMrgjx5TChsMImVSGNu4Ib6XP/Vyf0BtfYDIQyIN8Wi903q2ET0mI8DlaDQ==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 5,
+      "friends_count": 5,
+      "posts_count": 15,
+      "activity_count": 10,
+      "picture_path": "uploads/user/pictures",
+      "picture": "9535b0390e69d3dce633fbfd8f7d9b5d59961fbb.png",
+      "facebook_id": "1089447214411405",
+      "created_at": "2016-07-02T16:48:07+0200",
+      "updated_at": "2016-07-27T13:29:29+0200"
+    },
+    "questions": [
+      {
+        "id": 266,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 267,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11148570",
+    "lng": "17.02579970",
+    "created_at": "2016-07-06T13:20:47+0200",
+    "updated_at": "2016-07-06T13:20:47+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 140,
+    "type": "statement",
+    "title": "Czy dziala api?",
+    "urls": [],
+    "autor": {
+      "id": 18,
+      "username": "test",
+      "username_canonical": "test",
+      "email": "test@yahoo.com",
+      "email_canonical": "test@yahoo.com",
+      "enabled": true,
+      "salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+      "password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 2,
+      "posts_count": 5,
+      "activity_count": 6,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+      "facebook_id": "1018060558272351",
+      "created_at": "2016-07-01T14:07:17+0200",
+      "updated_at": "2016-07-08T17:54:29+0200"
+    },
+    "questions": [
+      {
+        "id": 264,
+        "value": "disagree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 265,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11151234",
+    "lng": "17.02577145",
+    "created_at": "2016-07-06T09:18:03+0200",
+    "updated_at": "2016-07-06T09:18:03+0200",
+    "comments_count": 9
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 139,
+    "type": "statement",
+    "title": "Cos tam",
+    "description": "Bl bla bla",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "questions": [
+      {
+        "id": 262,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 263,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11156545",
+    "lng": "17.02580148",
+    "created_at": "2016-07-05T15:32:32+0200",
+    "updated_at": "2016-07-05T15:32:32+0200",
+    "comments_count": 0
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 138,
+    "type": "statement",
+    "title": "One more time",
+    "description": "Cos",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "questions": [
+      {
+        "id": 260,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 261,
+        "value": "agree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11155789",
+    "lng": "17.02588423",
+    "created_at": "2016-07-05T14:55:13+0200",
+    "updated_at": "2016-07-05T14:55:13+0200",
+    "comments_count": 1
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 137,
+    "type": "statement",
+    "title": "Testerrrro",
+    "description": "Cos tam",
+    "urls": [],
+    "autor": {
+      "id": 22,
+      "username": "eldzastino",
+      "username_canonical": "eldzastino",
+      "email": "tettest998@gmail.com",
+      "email_canonical": "tettest998@gmail.com",
+      "enabled": true,
+      "salt": "icjte9z80g84c0sggsgcooo8o80oc0w",
+      "password": "BLhzRZDsp1ZW7l5pKwt3I3siOUEvdT2Byx4vJ7WtM+9l2h4HKkIdpd29RiJItVeJpVvv2IkDzXmNQlFdz9VUpw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 10,
+      "activity_count": 21,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c12f2adcb3f94741b39823a499e0d14d2ea22794.jpg",
+      "facebook_id": "544537162416691",
+      "created_at": "2016-07-02T10:57:38+0200",
+      "updated_at": "2016-07-26T09:25:00+0200"
+    },
+    "image": "0beadb8ca613a0e048d92a95fe9ac56915202d21.png",
+    "questions": [
+      {
+        "id": 258,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 259,
+        "value": "agree",
+        "votes_count": 6,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11155789",
+    "lng": "17.02588423",
+    "created_at": "2016-07-05T14:54:36+0200",
+    "updated_at": "2016-07-05T14:54:36+0200",
+    "comments_count": 51
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 129,
+    "type": "statement",
+    "title": "Test",
+    "description": "Test",
+    "urls": [],
+    "autor": {
+      "id": 23,
+      "username": "w_stasinski",
+      "username_canonical": "w_stasinski",
+      "email": "wojtchas@gmail.com",
+      "email_canonical": "wojtchas@gmail.com",
+      "enabled": true,
+      "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+      "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "posts_count": 19,
+      "activity_count": 30,
+      "picture_path": "uploads/user/pictures",
+      "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+      "real_name": "Wojtek S",
+      "facebook_id": "1277872052237820",
+      "created_at": "2016-07-02T11:35:43+0200",
+      "updated_at": "2016-07-27T14:13:07+0200",
+      "deleted_at": "2016-07-20T14:37:45+0200"
+    },
+    "questions": [
+      {
+        "id": 242,
+        "value": "disagree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      },
+      {
+        "id": 243,
+        "value": "agree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11152800",
+    "lng": "17.02588400",
+    "created_at": "2016-07-02T11:36:12+0200",
+    "updated_at": "2016-07-02T11:36:12+0200",
+    "comments_count": 35
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 128,
+    "type": "statement",
+    "title": "Without image",
+    "description": "With explanation",
+    "urls": [],
+    "autor": {
+      "id": 18,
+      "username": "test",
+      "username_canonical": "test",
+      "email": "test@yahoo.com",
+      "email_canonical": "test@yahoo.com",
+      "enabled": true,
+      "salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+      "password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 2,
+      "posts_count": 5,
+      "activity_count": 6,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+      "facebook_id": "1018060558272351",
+      "created_at": "2016-07-01T14:07:17+0200",
+      "updated_at": "2016-07-08T17:54:29+0200"
+    },
+    "questions": [
+      {
+        "id": 240,
+        "value": "disagree",
+        "votes_count": 3,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 241,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      }
+    ],
+    "lat": "51.11348120",
+    "lng": "16.99667982",
+    "created_at": "2016-07-01T20:40:00+0200",
+    "updated_at": "2016-07-01T20:40:00+0200",
+    "comments_count": 13
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 127,
+    "type": "statement",
+    "title": "Image",
+    "description": "This is long explanation",
+    "urls": [],
+    "autor": {
+      "id": 18,
+      "username": "test",
+      "username_canonical": "test",
+      "email": "test@yahoo.com",
+      "email_canonical": "test@yahoo.com",
+      "enabled": true,
+      "salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+      "password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 2,
+      "posts_count": 5,
+      "activity_count": 6,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+      "facebook_id": "1018060558272351",
+      "created_at": "2016-07-01T14:07:17+0200",
+      "updated_at": "2016-07-08T17:54:29+0200"
+    },
+    "image": "6b829da6ae34d0759a7c4dd7dc1205d86e04904f.png",
+    "questions": [
+      {
+        "id": 238,
+        "value": "disagree",
+        "votes_count": 2,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 239,
+        "value": "agree",
+        "votes_count": 6,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11369178",
+    "lng": "16.99674372",
+    "created_at": "2016-07-01T17:01:59+0200",
+    "updated_at": "2016-07-01T17:01:59+0200",
+    "comments_count": 11
+  },
+  {
+    "image_path": "uploads/post/images",
+    "id": 125,
+    "type": "statement",
+    "title": "Test first image",
+    "description": "asd",
+    "urls": [],
+    "autor": {
+      "id": 18,
+      "username": "test",
+      "username_canonical": "test",
+      "email": "test@yahoo.com",
+      "email_canonical": "test@yahoo.com",
+      "enabled": true,
+      "salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+      "password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+      "locked": false,
+      "expired": false,
+      "roles": [
+        "ROLE_USER"
+      ],
+      "credentials_expired": false,
+      "followers_count": 2,
+      "friends_count": 2,
+      "posts_count": 5,
+      "activity_count": 6,
+      "picture_path": "uploads/user/pictures",
+      "picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+      "facebook_id": "1018060558272351",
+      "created_at": "2016-07-01T14:07:17+0200",
+      "updated_at": "2016-07-08T17:54:29+0200"
+    },
+    "questions": [
+      {
+        "id": 234,
+        "value": "disagree",
+        "votes_count": 1,
+        "user_vote": false,
+        "friends_votes_count": 0,
+        "friends_votes": []
+      },
+      {
+        "id": 235,
+        "value": "agree",
+        "votes_count": 4,
+        "user_vote": false,
+        "friends_votes_count": 1,
+        "friends_votes": [
+          {
+            "id": 20,
+            "username": "vley",
+            "picture": "af54aa301d3d5acb12700750ee257d586a7e8f7e.png",
+            "picture_path": "uploads/user/pictures"
+          }
+        ]
+      }
+    ],
+    "lat": "51.11360093",
+    "lng": "16.99672118",
+    "created_at": "2016-07-01T14:09:23+0200",
+    "updated_at": "2016-07-05T13:09:24+0200",
+    "comments_count": 0
+  }
+]

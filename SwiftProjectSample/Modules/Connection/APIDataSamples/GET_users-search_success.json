@@ -1,0 +1,33 @@
+{
+  "current_page_number": "1",
+  "num_items_per_page": 20,
+  "items": [
+	{
+	  "id": 28,
+	  "username": "nicola",
+	  "realname": "Nicola Palumbo",
+	  "picture": "92ffbc73a820f9614b3c43adef51bbdfa45970eb.png",
+	  "picture_path": "uploads/user/pictures",
+	  "posts_count": 1,
+	  "friends_count": 0,
+	  "followers_count": 1,
+	  "following": false
+	}
+  ],
+  "total_count": 1,
+  "paginator_options": {
+	"pageParameterName": "page",
+	"sortFieldParameterName": "sort",
+	"sortDirectionParameterName": "direction",
+	"filterFieldParameterName": "filterField",
+	"filterValueParameterName": "filterValue",
+	"distinct": true
+  },
+  "custom_parameters": [],
+  "route": "get_users_search",
+  "params": {
+	"query": "palum",
+	"id": "27"
+  },
+  "page_range": 5
+}

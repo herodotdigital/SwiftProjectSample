@@ -1,0 +1,84 @@
+{
+  "id": 2,
+  "value": "New comment posted on Mon, 04 Jul 2016 17:03:00 +0200",
+  "post": {
+	"image_path": "uploads/post/images",
+	"id": 129,
+	"type": "statement",
+	"title": "Test",
+	"description": "Test",
+	"urls": [],
+	"autor": {
+	  "id": 23,
+	  "username": "w_stasinski",
+	  "username_canonical": "w_stasinski",
+	  "email": "wojtchas@gmail.com",
+	  "email_canonical": "wojtchas@gmail.com",
+	  "enabled": true,
+	  "salt": "37tf1jdtsbsw4okgwkcs4wsck84k444",
+	  "password": "VFXEgEd58EkjQWlaCRBVaw2vVNd0Uv2JQVBl/bI8NzJs159uLnGT1umEg/tURx/hurKJEpmf2PEpMj4yAO7ODw==",
+	  "locked": false,
+	  "expired": false,
+	  "roles": [
+		"ROLE_USER"
+	  ],
+	  "credentials_expired": false,
+	  "picture_path": "uploads/user/pictures",
+	  "picture": "a3ec665db781463531d4c7f7130f1e9d4559a54e.png",
+	  "range_of_location": 0,
+	  "score": 0,
+	  "friends": [],
+	  "followers": [],
+	  "facebook_id": "1277872052237820",
+	  "facebook_access_token": "EAAIHK98AbAEBABkTdo5o6r4gI16cDn6vCOJx1jvktKVnsGJR7bnI8jIs2t3vhTGqKPeMYDxetaIaeQatHkBxBxXvJK2U6fHOOZCc1IhJ9NUGuWY9OP0RK9qCN35NqJTBPW88UqCWsEhzK2DM7Ma7wd8cPQ02406ZBTNZCZCLgjIfn3DyCSxir47b9bpC63WBONZB5CdulTzMKZCe4WME1uxawYzMBU3BOzVsYVZAYv7zAZDZD",
+	  "created_at": "2016-07-02T11:35:43+0200",
+	  "updated_at": "2016-07-04T09:16:26+0200"
+	},
+	"questions": [
+	  {
+		"id": 242,
+		"value": "disagree",
+		"created_at": "2016-07-02T11:36:12+0200",
+		"updated_at": "2016-07-02T11:36:12+0200"
+	  },
+	  {
+		"id": 243,
+		"value": "agree",
+		"created_at": "2016-07-02T11:36:12+0200",
+		"updated_at": "2016-07-02T11:36:12+0200"
+	  }
+	],
+	"lat": 51.111528,
+	"lng": 17.025884,
+	"created_at": "2016-07-02T11:36:12+0200",
+	"updated_at": "2016-07-02T11:36:12+0200"
+  },
+  "user": {
+	"id": 18,
+	"username": "adam_borek",
+	"username_canonical": "adam_borek",
+	"email": "adam_borek@yahoo.com",
+	"email_canonical": "adam_borek@yahoo.com",
+	"enabled": true,
+	"salt": "30a7bn1t2eecw8wcg4o4coo0skow8ko",
+	"password": "3Yte3euvcOeydWEhwEjhqgtrfvezDMO8XwJvzdrscsonph9kbvLOBFB5pF/k0I4omiFf2vw1D61xVnMTZTzJxg==",
+	"locked": false,
+	"expired": false,
+	"roles": [
+	  "ROLE_USER"
+	],
+	"credentials_expired": false,
+	"picture_path": "uploads/user/pictures",
+	"picture": "c0f442ba4cb920af54937e6f1915f6b665e0014a.png",
+	"range_of_location": 0,
+	"score": 0,
+	"friends": [],
+	"followers": [],
+	"facebook_id": "1018060558272352",
+	"facebook_access_token": "EAAIHK98AbAEBAKg5NBAZAgZC1igsXIZCNLP8Ub0PtUVqt54oaxaG5C4ZA9qp0EHPB3FpZA5Lw8nsiZBT93WFYJVLtzhZBXRO281mfHASh7Nm9cZAxXZCE4gZBeqcf50rsf3fAp1BRpLtZAUTZBQMZBRY1MbdmUUxZBJvvvWRf3hqreHVNZAwpPssaJhiF4jtZCMX3jsDfwLSZBF5Jpyz01dWhZClriC5pGC4BIDsbkxHOYlNut9wFi4gZDZD",
+	"created_at": "2016-07-01T14:07:17+0200",
+	"updated_at": "2016-07-04T15:08:19+0200"
+  },
+  "created_at": "2016-07-04T17:03:01+0200",
+  "updated_at": "2016-07-04T17:03:01+0200"
+}

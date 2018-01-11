@@ -3,7 +3,7 @@
 
 The sample project is the part of our past Swift projects. This sample contains one module which is used to displays user content (statements) on 3 screens. The sample also contains the screen to create new content as a user.
 
-Keep in mind that **all requests are based on static .json files**  to allow you to compile the project and see all our content inside the app.
+Keep in mind that **all requests are based on static .json files**  to allow you to compile the project and see all our content inside the app. **To keep the sample small, we stripped down most of its features.**
 
 ### Rx - Reactive programming
 
